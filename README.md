@@ -1,6 +1,6 @@
 # Spot The Difference
 
-Final Java project for completing lecture JAVA Programmin Lab (42). 
+Final Java project for completing lecture JAVA Programming Lab (42). 
 
 ## Introduction
 
